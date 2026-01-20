@@ -1,0 +1,5 @@
+Distance,Scenario,Sent,Received,PDR,RSSI_avg,Metric_avg
+5,Meme_piece,30,30,100.0,-57.30576512613005,170.3
+10,Piece_adjacente,30,30,100.0,-71.66544013410463,112.83333333333333
+15,2_pieces,30,30,100.0,-82.97850496659676,67.6
+20,Etage_different,30,30,100.0,-89.7166490597645,40.6
